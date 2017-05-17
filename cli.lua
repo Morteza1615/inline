@@ -882,7 +882,7 @@ end
             end
           tdcli_function({
       ID = "GetInlineQueryResults",
-      bot_user_id_ = 391987652,
+      bot_user_id_ = 302851823,
       chat_id_ = msg.chat_id_,
       user_location_ = {
         ID = "Location",
